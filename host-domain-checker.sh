@@ -36,7 +36,7 @@ fi
 #recieve the last list of CDN ip ranges like cloudflare and etc.
 curl https://www.cloudflare.com/ips-v4 >  .temp.iprange.txt 2>&1 > /dev/null
 curl https://www.arvancloud.com/fa/ips.txt >> .temp.iprange.txt 2>&1 > /dev/null
-curl http://167.233.7.221/ips.txt >> .temp.iprange.txt 2>&1 > /dev/null
+curl http://5.9.201.73/ips.txt >> .temp.iprange.txt 2>&1 > /dev/null
 
 
 
