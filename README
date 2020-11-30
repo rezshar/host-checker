@@ -1,0 +1,5 @@
+this is a simple bash script for checking connection between Host and Domain.
+in your server if some domain connect from another host or server this script will show them simply.
+the output will be written in a file called Result.txt in the same place where the script runs.
+it only run on servers that have Cpanel or Directadmin as a control panel.
+enjoy
