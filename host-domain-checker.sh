@@ -1,5 +1,5 @@
 #!/bin/bash
-#written by me rsharifi210@gmail.com
+#written by Reza Sharifi rsharifi210@gmail.com
 
 #LOCALIP=$(hostname -i)
 hostname -I | tr " " "\n" > temporaryscript_1
