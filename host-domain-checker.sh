@@ -1,5 +1,4 @@
 #!/bin/bash
-#written by Reza Sharifi rsharifi210@gmail.com
 
 #LOCALIP=$(hostname -i)
 hostname -I | tr " " "\n" > temporaryscript_1
@@ -8,7 +7,8 @@ tput setaf 4;cat << "EOF"
 +-----------------------------------+
 |                     	            |
 |  Host & Domain check version 2.0  |
-|       powered by rezshar          |
+|       written by rezshar          |
+|     rsharifi210@gmail.com         |
 +-----------------------------------+
 
   _____ _______       _____ _______ 
